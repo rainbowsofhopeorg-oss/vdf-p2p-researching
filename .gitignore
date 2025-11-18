@@ -1,0 +1,9 @@
+vdf_test
+# Compiled binaries
+ghost_node
+*.o
+*.exe
+
+# OS junk
+.DS_Store
+Thumbs.db
